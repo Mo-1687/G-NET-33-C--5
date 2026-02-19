@@ -1,0 +1,14 @@
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\bin\Debug\net8.0\G-NET-33-C#-5 part 2.exe
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\bin\Debug\net8.0\G-NET-33-C#-5 part 2.deps.json
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\bin\Debug\net8.0\G-NET-33-C#-5 part 2.runtimeconfig.json
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\bin\Debug\net8.0\G-NET-33-C#-5 part 2.dll
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\bin\Debug\net8.0\G-NET-33-C#-5 part 2.pdb
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\obj\Debug\net8.0\G-NET-33-C#-5 part 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\obj\Debug\net8.0\G-NET-33-C#-5 part 2.AssemblyInfoInputs.cache
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\obj\Debug\net8.0\G-NET-33-C#-5 part 2.AssemblyInfo.cs
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\obj\Debug\net8.0\G-NET-33-C#-5 part 2.csproj.CoreCompileInputs.cache
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\obj\Debug\net8.0\G-NET-33-C#-5 part 2.dll
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\obj\Debug\net8.0\refint\G-NET-33-C#-5 part 2.dll
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\obj\Debug\net8.0\G-NET-33-C#-5 part 2.pdb
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\obj\Debug\net8.0\G-NET-33-C#-5 part 2.genruntimeconfig.cache
+D:\C#\G-NET-33-C#-5 part 2\G-NET-33-C#-5 part 2\obj\Debug\net8.0\ref\G-NET-33-C#-5 part 2.dll
